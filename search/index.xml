@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Search Result on Northendlab | Blog Template</title>
-    <link>https://camilovarela.dev/search/</link>
-    <description>Recent content in Search Result on Northendlab | Blog Template</description>
+    <title>Search Result on Beautiful Hugo</title>
+    <link>https://username.github.io/search/</link>
+    <description>Recent content in Search Result on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://camilovarela.dev/search/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster><atom:link href="https://username.github.io/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
